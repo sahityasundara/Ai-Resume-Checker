@@ -718,7 +718,7 @@ const MainApp: React.FC<{ onBack: () => void }> = ({ onBack }) => {
                         </span>
                     )}
                 </button>
-                <p className="text-xs text-gray-500">Powered by Google Gemini 2.5 Flash</p>
+            
             </div>
 
             {/* Loading Overlay */}
